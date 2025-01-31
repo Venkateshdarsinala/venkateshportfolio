@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../venky"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "225240"
+	}
+}
